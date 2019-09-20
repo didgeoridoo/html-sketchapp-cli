@@ -174,7 +174,7 @@ Once this command has successfully run, the following files will be generated in
 These need to be imported into Sketch via html-sketchapp's corresponding Sketch plugin. To ease the install process, you can run the following command.
 
 ```bash
-$ html-sketchapp install
+$ html-sketchapp-install
 ```
 
 Then, open a new Sketch document and, from the menu, select `Plugins > From *Almost* Sketch to Sketch`. In the file picker, select both `document.asketch.json` and `page.asketch.json`, and click `Choose`.
